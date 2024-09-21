@@ -1,0 +1,150 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin nez/MG3.8.1Effects/Bevels.mgfxo
+/copy:nez/MG3.8.1Effects/Bevels.mgfxo
+
+#begin nez/MG3.8.1Effects/BloomCombine.mgfxo
+/copy:nez/MG3.8.1Effects/BloomCombine.mgfxo
+
+#begin nez/MG3.8.1Effects/BloomExtract.mgfxo
+/copy:nez/MG3.8.1Effects/BloomExtract.mgfxo
+
+#begin nez/MG3.8.1Effects/Crosshatch.mgfxo
+/copy:nez/MG3.8.1Effects/Crosshatch.mgfxo
+
+#begin nez/MG3.8.1Effects/DeferredLighting.mgfxo
+/copy:nez/MG3.8.1Effects/DeferredLighting.mgfxo
+
+#begin nez/MG3.8.1Effects/DeferredSprite.mgfxo
+/copy:nez/MG3.8.1Effects/DeferredSprite.mgfxo
+
+#begin nez/MG3.8.1Effects/Dissolve.mgfxo
+/copy:nez/MG3.8.1Effects/Dissolve.mgfxo
+
+#begin nez/MG3.8.1Effects/Dots.mgfxo
+/copy:nez/MG3.8.1Effects/Dots.mgfxo
+
+#begin nez/MG3.8.1Effects/ForwardLighting.mgfxo
+/copy:nez/MG3.8.1Effects/ForwardLighting.mgfxo
+
+#begin nez/MG3.8.1Effects/GaussianBlur.mgfxo
+/copy:nez/MG3.8.1Effects/GaussianBlur.mgfxo
+
+#begin nez/MG3.8.1Effects/Grayscale.mgfxo
+/copy:nez/MG3.8.1Effects/Grayscale.mgfxo
+
+#begin nez/MG3.8.1Effects/HeatDistortion.mgfxo
+/copy:nez/MG3.8.1Effects/HeatDistortion.mgfxo
+
+#begin nez/MG3.8.1Effects/Invert.mgfxo
+/copy:nez/MG3.8.1Effects/Invert.mgfxo
+
+#begin nez/MG3.8.1Effects/Letterbox.mgfxo
+/copy:nez/MG3.8.1Effects/Letterbox.mgfxo
+
+#begin nez/MG3.8.1Effects/MultiTexture.mgfxo
+/copy:nez/MG3.8.1Effects/MultiTexture.mgfxo
+
+#begin nez/MG3.8.1Effects/MultiTextureOverlay.mgfxo
+/copy:nez/MG3.8.1Effects/MultiTextureOverlay.mgfxo
+
+#begin nez/MG3.8.1Effects/Noise.mgfxo
+/copy:nez/MG3.8.1Effects/Noise.mgfxo
+
+#begin nez/MG3.8.1Effects/PaletteCycler.mgfxo
+/copy:nez/MG3.8.1Effects/PaletteCycler.mgfxo
+
+#begin nez/MG3.8.1Effects/PixelGlitch.mgfxo
+/copy:nez/MG3.8.1Effects/PixelGlitch.mgfxo
+
+#begin nez/MG3.8.1Effects/PolygonLight.mgfxo
+/copy:nez/MG3.8.1Effects/PolygonLight.mgfxo
+
+#begin nez/MG3.8.1Effects/Reflection.mgfxo
+/copy:nez/MG3.8.1Effects/Reflection.mgfxo
+
+#begin nez/MG3.8.1Effects/Scanlines.mgfxo
+/copy:nez/MG3.8.1Effects/Scanlines.mgfxo
+
+#begin nez/MG3.8.1Effects/Sepia.mgfxo
+/copy:nez/MG3.8.1Effects/Sepia.mgfxo
+
+#begin nez/MG3.8.1Effects/SpriteAlphaTest.mgfxo
+/copy:nez/MG3.8.1Effects/SpriteAlphaTest.mgfxo
+
+#begin nez/MG3.8.1Effects/SpriteBlinkEffect.mgfxo
+/copy:nez/MG3.8.1Effects/SpriteBlinkEffect.mgfxo
+
+#begin nez/MG3.8.1Effects/SpriteEffect.mgfxo
+/copy:nez/MG3.8.1Effects/SpriteEffect.mgfxo
+
+#begin nez/MG3.8.1Effects/SpriteLightMultiply.mgfxo
+/copy:nez/MG3.8.1Effects/SpriteLightMultiply.mgfxo
+
+#begin nez/MG3.8.1Effects/SpriteLines.mgfxo
+/copy:nez/MG3.8.1Effects/SpriteLines.mgfxo
+
+#begin nez/MG3.8.1Effects/StencilLight.mgfxo
+/copy:nez/MG3.8.1Effects/StencilLight.mgfxo
+
+#begin nez/MG3.8.1Effects/transitions/Squares.mgfxo
+/copy:nez/MG3.8.1Effects/transitions/Squares.mgfxo
+
+#begin nez/MG3.8.1Effects/transitions/TextureWipe.mgfxo
+/copy:nez/MG3.8.1Effects/transitions/TextureWipe.mgfxo
+
+#begin nez/MG3.8.1Effects/transitions/Wind.mgfxo
+/copy:nez/MG3.8.1Effects/transitions/Wind.mgfxo
+
+#begin nez/MG3.8.1Effects/Twist.mgfxo
+/copy:nez/MG3.8.1Effects/Twist.mgfxo
+
+#begin nez/MG3.8.1Effects/Vignette.mgfxo
+/copy:nez/MG3.8.1Effects/Vignette.mgfxo
+
+#begin nez/NezDefaultBMFont.xnb
+/copy:nez/NezDefaultBMFont.xnb
+
+#begin nez/textures/heatDistortionNoise.xnb
+/copy:nez/textures/heatDistortionNoise.xnb
+
+#begin nez/textures/textureWipeTransition/angular.xnb
+/copy:nez/textures/textureWipeTransition/angular.xnb
+
+#begin nez/textures/textureWipeTransition/crissCross.xnb
+/copy:nez/textures/textureWipeTransition/crissCross.xnb
+
+#begin nez/textures/textureWipeTransition/diagonalDistort.xnb
+/copy:nez/textures/textureWipeTransition/diagonalDistort.xnb
+
+#begin nez/textures/textureWipeTransition/horizontal.xnb
+/copy:nez/textures/textureWipeTransition/horizontal.xnb
+
+#begin nez/textures/textureWipeTransition/noise.xnb
+/copy:nez/textures/textureWipeTransition/noise.xnb
+
+#begin nez/textures/textureWipeTransition/pokemon.xnb
+/copy:nez/textures/textureWipeTransition/pokemon.xnb
+
+#begin nez/textures/textureWipeTransition/sawTooth.xnb
+/copy:nez/textures/textureWipeTransition/sawTooth.xnb
+
+#begin nez/textures/textureWipeTransition/spiral.xnb
+/copy:nez/textures/textureWipeTransition/spiral.xnb
+
+#begin nez/textures/textureWipeTransition/wink.xnb
+/copy:nez/textures/textureWipeTransition/wink.xnb
+
